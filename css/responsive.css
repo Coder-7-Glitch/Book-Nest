@@ -1,0 +1,57 @@
+@media (max-width: 1400px) {
+    .card-title {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .hero-heading h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 992px) {
+    .third-img {
+        height: 525px;
+    }
+
+    .search-bar {
+        width: 100%;
+    }
+
+    .hero-heading h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .about-card {
+        width: 100%;
+        left: 0;
+    }
+
+    .about-content p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 768px) {
+    .card-title {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 450px) {
+    .about-content p {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 321px) {
+    .card-title {
+        font-size: 18px;
+    }
+
+    .hero-heading h1 {
+        font-size: 24px;
+    }
+}
